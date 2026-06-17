@@ -9,5 +9,7 @@ int main(int argc, char *argv[])
     // тест upd2
     // тест alter branch
 
+    int test_branch = 2;
+
     return a.exec();
 }
